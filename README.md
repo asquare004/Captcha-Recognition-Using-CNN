@@ -1,1 +1,1 @@
-# Captcha-Reecognition-Using-CNN
+# Captcha-Recognition-Using-CNN
